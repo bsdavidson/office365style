@@ -1,0 +1,103 @@
+span._n_i5._n_k5 {
+    height: 10px;
+}
+
+._n_s5 {
+    height: 20px;
+}
+
+._n_s4 {
+    font-size: 14px;
+}
+
+._n_15 {
+    vertical-align: text-top;
+}
+
+._n_p5 {
+    top: -2px;
+}
+
+._n_q5 {
+    top: -4px;
+}
+
+._n_d5 {
+    margin-bottom: 9px;
+}
+
+._n_A4 {
+    height: 20px;
+}
+
+._n_n4 {
+    height: 20px;
+}
+
+._n_r4 {
+    height: 20px;
+    top: -2px;
+}
+
+._n_x4 {
+    height: 20px;
+    top: 0px;
+}
+
+._n_y4 {
+    height: 20px;
+    top: 2px;
+}
+
+._n_w4 {
+    margin-top: -1px;
+}
+
+._n_l5 {
+    vertical-align: text-top;
+    font-size: 13px;
+}
+
+._n_l5.ms-font-s {
+    font-weight: bold;
+}
+
+._n_l5.ms-font-s.ms-font-color-neutralPrimary {
+    font-weight: normal;
+}
+
+.ms-Icon--chevronDown:before {
+    content: ''
+;
+}
+
+.ms-Icon--chevronUp:before {
+    content: ''
+;
+}
+
+[aria-label*="Unread"] {
+    background: #F9F9F9;
+}
+
+[aria-selected="true"] [aria-label*="Unread"] {
+    background: #AED3E7;
+}
+
+[aria-label*="Unread"] span {
+    font-weight: bold;
+}
+
+._lvv_C, ._lvv_T1 {
+    border-bottom: 1px solid #eee;
+}
+
+[role="heading"] .listItemDefaultBackground {
+    background: #efefef;
+    color: #444;
+    font-size: 14px;
+    font-weight: bold;
+    box-shadow: 0px 1px 4px #555;
+    z-index: 999;
+}
+
